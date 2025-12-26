@@ -1,0 +1,3 @@
+top DummyTop {
+    components = Dummy
+}
